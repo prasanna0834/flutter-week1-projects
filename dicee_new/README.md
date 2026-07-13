@@ -1,17 +1,41 @@
-# dicee_new
+# Dicee
 
-A new Flutter project.
+A simple Flutter application that simulates rolling two dice. When the user taps the **Roll Dice** button, both dice display new random numbers by updating their images.
+
+## Features
+
+- Interactive dice rolling
+- Random dice number generation
+- Dynamic image updates
+- Simple and user-friendly interface
+- Built using StatefulWidget and setState()
+
+## Widgets Used
+
+- MaterialApp
+- Scaffold
+- AppBar
+- Column
+- Row
+- Expanded
+- Image
+- TextButton
+- StatefulWidget
+
+## State Management
+
+The application uses **StatefulWidget** and **setState()** to update the dice images whenever the **Roll Dice** button is pressed. Random numbers are generated to simulate rolling the dice.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository.
+2. Run the following commands:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter pub get
+flutter run
+```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(Add a short GIF or video demonstrating the dice rolling feature.)
