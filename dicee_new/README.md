@@ -35,7 +35,3 @@ The application uses **StatefulWidget** and **setState()** to update the dice im
 flutter pub get
 flutter run
 ```
-
-## Demo
-
-(Add a short GIF or video demonstrating the dice rolling feature.)
