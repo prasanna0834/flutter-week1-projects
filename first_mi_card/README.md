@@ -1,17 +1,38 @@
-# first_mi_card
+# Mi Card
 
-A new Flutter project.
+A Flutter application that displays a personal profile card with a clean and attractive user interface.
+
+## Features
+
+- Profile picture using CircleAvatar
+- Name and profession display
+- Contact information cards
+- Custom fonts for improved appearance
+- Clean layout using Row and Column widgets
+
+## Widgets Used
+
+- MaterialApp
+- Scaffold
+- SafeArea
+- Column
+- Row
+- CircleAvatar
+- Card
+- ListTile
+- Text
+- Icon
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository.
+2. Run the following commands:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter pub get
+flutter run
+```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(Add your screenshot here or place it in the screenshots folder.)
